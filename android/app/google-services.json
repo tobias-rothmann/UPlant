@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "336392666333",
+    "project_id": "gardening-b838f",
+    "storage_bucket": "gardening-b838f.appspot.com"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:336392666333:android:1c16a6368e081f3e076f34",
+      "android_client_info": {
+        "package_name": "com.example.uplant"
+      }
+    },
+    "oauth_client": [{
+      "client_id": "336392666333-ohh7kft195o04njmjd6t00rs6roh2bab.apps.googleusercontent.com",
+      "client_type": 3
+    }],
+    "api_key": [{
+      "current_key": "AIzaSyDRjl4CHaEaR1GluOi-b7Xgxxz-cJJ12A4"
+    }],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [{
+          "client_id": "336392666333-ohh7kft195o04njmjd6t00rs6roh2bab.apps.googleusercontent.com",
+          "client_type": 3
+        }]
+      }
+    }
+  }],
+  "configuration_version": "1"
+}
